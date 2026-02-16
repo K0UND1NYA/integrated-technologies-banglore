@@ -53,8 +53,8 @@
             <p class="text-gray-600 mb-7 text-sm sm:text-base">
                 Talk to our experts today and get tailored IT solutions, professional repair services, and long-term technology support.
             </p>
-            <a href="contact.php" class="px-7 py-3 md:px-10 md:py-4 rounded-xl bg-gradient-to-r from-primary to-secondary text-white font-semibold shadow-lg shadow-primary/25 hover:shadow-primary/40 transition inline-block">
-                Contact Our Team
+            <a href="book-service.php" class="px-7 py-3 md:px-10 md:py-4 rounded-xl bg-gradient-to-r from-primary to-secondary text-white font-semibold shadow-lg shadow-primary/25 hover:shadow-primary/40 transition inline-block">
+                Book a Service
             </a>
         </div>
     </div>

@@ -117,7 +117,7 @@
                     }
                 ?>
 
-                <a href="contact.php" class="px-5 py-2.5 rounded-lg bg-gradient-to-r from-primary to-secondary text-white text-sm font-medium hover:scale-105 active:scale-95 transition-transform shadow-lg shadow-primary/20">
+                <a href="book-service.php" class="px-5 py-2.5 rounded-lg bg-gradient-to-r from-primary to-secondary text-white text-sm font-medium hover:scale-105 active:scale-95 transition-transform shadow-lg shadow-primary/20">
                     <div class="flex items-center gap-2">
                         <i data-lucide="zap" class="w-4 h-4"></i>
                         Book Repair
@@ -145,7 +145,7 @@
                     echo "<a href=\"$link\" class=\"mobile-link $active_class\">$name</a>";
                 }
             ?>
-            <a href="contact.php" class="px-6 py-3 rounded-xl bg-gradient-to-r from-primary to-secondary text-white font-semibold shadow-lg hover:scale-105 transition-transform mt-4">
+            <a href="book-service.php" class="px-6 py-3 rounded-xl bg-gradient-to-r from-primary to-secondary text-white font-semibold shadow-lg hover:scale-105 transition-transform mt-4">
                 Book Repair
             </a>
         </nav>

@@ -19,7 +19,7 @@
                     Integrated Technologies, Empowering your digital journey with expert service, advanced repair, and reliable solutions.
                 </p>
                 <div class="flex flex-wrap gap-4 justify-center md:justify-start">
-                    <a href="contact.php" class="px-6 py-3 rounded-xl bg-gradient-to-r from-primary to-secondary text-white font-semibold shadow-lg hover:scale-105 transition-transform">
+                    <a href="book-service.php" class="px-6 py-3 rounded-xl bg-gradient-to-r from-primary to-secondary text-white font-semibold shadow-lg hover:scale-105 transition-transform">
                         Book a Service
                     </a>
                     <a href="services.php" class="px-6 py-3 rounded-xl border border-gray-200 text-gray-700 hover:bg-gray-50 transition flex items-center gap-2">
